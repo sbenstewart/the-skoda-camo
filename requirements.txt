@@ -1,0 +1,5 @@
+mpmath==1.1.0
+gmpy2==2.0.8
+Pillow==6.1.0
+numpy==1.16.4
+numpydoc==0.9.1
