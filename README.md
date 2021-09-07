@@ -1,7 +1,7 @@
 # the-skoda-camo
 ![GitHub repo size](https://img.shields.io/github/repo-size/sbenstewart/the-skoda-camo)
 
-Get the pixel form of the digits of pi as a wallpaper using either the number of digits of pi you want or the screen resolution.<br>
+A camouflage for skoda and for all of us to use.<br>
 
 <img src="camo.jpeg" alt="the-skoda-camo" width="500"><br>
 
